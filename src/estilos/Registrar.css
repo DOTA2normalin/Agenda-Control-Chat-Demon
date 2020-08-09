@@ -1,0 +1,98 @@
+
+.form-wrapper-registrar{
+   height: 400px;
+   width: 30%;
+   transition: 2s;
+   margin-top: 70px;
+   margin-left: 405px;
+   box-shadow: 0px 0px 5px black,0px 0px 5px black;
+   font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+.email{
+   height: 70px;
+    width: 250px;
+    margin-left: 18px;
+}
+.password{
+   height: 70px;
+    width: 250px;
+    margin-left: 18px;
+}
+
+
+.registrar{
+   height: 70px;
+   margin-top: 50px;
+   margin-bottom: 15px;
+   top: 10px;
+   left: 132px;
+   border: 50px 50% 50% 50%;
+   position: relative;
+   display: block;
+}
+
+.title-registro{
+   color: black;
+   margin-left: 93px;
+   font-size: 30px;
+}
+
+.registrar-button{
+   background-color: green;
+   position: absolute;
+   left: 655px;
+}
+.registrar-button:hover{
+   background-color: blue;
+}
+
+.registrar-button-volver{
+   background-color: green;
+   position: absolute;
+   left: 615px;
+}
+.registrar-button-volver:hover{
+   background-color: blue;
+}
+
+.menu{
+   width: 400px;
+   margin-left: 60px;
+   margin-top: 200px;
+   font-family: Arial;
+   align-content: center;
+}
+
+.texto{
+   font-size: 50px;
+   margin-left: 300px;
+}
+@media screen and (max-width: 750px)
+{
+   .form-wrapper-registrar{
+      width: 95%;
+      margin-top: 10px;
+      margin-left: 10px;
+   }
+   .registrar{
+      height: 50px;
+      margin-left: 40px;
+   }
+   .registrar-button{
+      left:170px;
+   }
+   .title-registro{
+      margin-left: 120px;
+   }
+   .menu{
+      margin-left: 120px;
+   }
+   .registrar-button-volver{
+      margin-left: -450px;
+   }
+   .texto{
+      font-size: 20px;
+      margin-left: 100px;
+   }
+
+}

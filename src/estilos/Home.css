@@ -1,0 +1,31 @@
+.logo{
+   font-family: Impact, fantasy;
+   color: black;
+   font-size: 50px;
+   margin-left: 230px;
+
+}
+.img-logo{
+   top: -15px;
+   left: 70px;
+   width: 900px;
+   height: 400px;
+   border: 50px 50% 50% 50%;
+   margin: 13%;
+   position: relative;
+   display: block;
+   margin-left: 60px;
+}
+@media screen and (max-width: 750px)
+{
+   .logo{
+      font-size: 20px;
+      margin-left: 62px;
+      margin-top: 50px;
+   }
+   .img-logo{
+      width: 300px;
+      height: 250px;
+      margin-left: -15px;
+   }
+}
