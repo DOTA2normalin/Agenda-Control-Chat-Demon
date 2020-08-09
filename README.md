@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Clone the repository:
+
+### `git clone git@github.com:DOTA2normalin/Agenda-Control-Chat-Demon.git`
+
+To download the dependencies, execute the following command in the terminal:
+### `npm i` or `npm install`
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
