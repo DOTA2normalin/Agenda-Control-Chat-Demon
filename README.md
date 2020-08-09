@@ -7,6 +7,8 @@ Clone the repository:
 To download the dependencies, execute the following command in the terminal:
 ### `npm i` or `npm install`
 
+To run the program
+### `npm run start`
 
 
 ## Available Scripts
